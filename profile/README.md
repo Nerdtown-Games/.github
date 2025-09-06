@@ -3,5 +3,5 @@ Welcome to the official GitHub for **Nerdtown Games**.
 
 GitHub is only here for us to share our code with you if you want to help make it better.
 
-🌐 [games.dmas.com.au](https://games.dmas.com.au)  
+🌐 [nerdtown.cc](https://nerdtown.cc)  
 📧 [games.nerdtown@gmail.com](mailto:games.nerdtown@gmail.com)
