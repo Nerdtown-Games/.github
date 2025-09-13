@@ -4,4 +4,4 @@ Welcome to the official GitHub for **Nerdtown Games**.
 GitHub is only here for us to share our code with you if you want to help make it better.
 
 🌐 [nerdtown.cc](https://nerdtown.cc)  
-📧 [games.nerdtown@gmail.com](mailto:contact@nerdtown.cc)
+📧 [contact@nerdtown.cc](mailto:contact@nerdtown.cc)
